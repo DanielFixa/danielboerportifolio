@@ -1,0 +1,6 @@
+
+C:\Users\dgarc\Documents\Antrigravity\danielboerportifolio\src\components\ui\rainbow-button.tsx
+  5:11  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+Ô£û 1 problem (1 error, 0 warnings)
+
