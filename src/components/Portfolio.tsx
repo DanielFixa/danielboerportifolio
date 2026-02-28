@@ -47,7 +47,7 @@ export function Portfolio() {
         {
             title: "Alice Cadore | Estética e Cosmetologia",
             description: "Apresentação profissional e elegante para serviços de estética avançada e beleza.",
-            image: "https://images.unsplash.com/photo-1512496015851-a1dc8b41ca0b?auto=format&fit=crop&q=80&w=800",
+            image: "/alice.png",
             link: "https://website-alice.vercel.app/",
         }
     ];
