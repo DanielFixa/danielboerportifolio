@@ -3,7 +3,7 @@ import { BlurFade } from "./ui/blur-fade";
 export function About() {
     return (
         <section id="sobre" className="py-24 bg-background border-t border-white/5 relative overflow-hidden">
-            <div className="container mx-auto px-6 relative z-10">
+            <div className="container mx-auto px-6 relative z-10 flex flex-col items-center text-center">
                 <BlurFade delay={0.1} inView>
                     <h2 className="text-3xl md:text-5xl font-bold mb-8 tracking-tight">Sobre Mim</h2>
                 </BlurFade>
