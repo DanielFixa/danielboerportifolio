@@ -45,10 +45,10 @@ export function Portfolio() {
             link: "https://barbearia-landing-theta.vercel.app/",
         },
         {
-            title: "Alice Cadore | Estética e Cosmetologia",
-            description: "Apresentação profissional e elegante para serviços de estética avançada e beleza.",
-            image: "/alice.png",
-            link: "https://website-alice.vercel.app/",
+            title: "Aura Beauty Studio",
+            description: "Apresentação profissional e elegante para estúdios de beleza e estética avançada.",
+            image: "/salaobeleza.png",
+            link: "https://salaobeleza-sage.vercel.app/",
         }
     ];
 
