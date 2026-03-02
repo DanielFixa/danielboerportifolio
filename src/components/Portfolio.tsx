@@ -30,7 +30,7 @@ export function Portfolio() {
             title: "Roma Barber",
             description: "Elegância e dark mode para destacar ambientes masculinos de alto padrão.",
             image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&q=80&w=800",
-            link: "https://barbershop-landing-page-three.vercel.app/",
+            link: "https://romariobarbearia.vercel.app/",
         },
         {
             title: "Wedding Match Maker",
