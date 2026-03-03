@@ -13,7 +13,7 @@ import "./App.css"
 function App() {
   useEffect(() => {
     // Inicializa o Google Analytics
-    ReactGA.initialize("G-2FY6PG6M18");
+    ReactGA.initialize("G-5TQKRJSQKS");
     // Envia um pageview padrão que representa o carregamento da página
     ReactGA.send({ hitType: "pageview", page: window.location.pathname + window.location.search });
   }, []);
